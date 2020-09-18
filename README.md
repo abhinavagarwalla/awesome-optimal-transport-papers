@@ -6,6 +6,7 @@ A list of papers utilising applying differentiable optimal transport to diverse 
 - [Papers](#Papers)
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
+  - [Self Supervised Learning](#self-supervised-learning)
   
 ## Papers
 
@@ -21,3 +22,7 @@ A list of papers utilising applying differentiable optimal transport to diverse 
 
 ### Natural Language Processing
 1. [Sparse Sinkhorn Attention](https://arxiv.org/abs/2002.11296)
+
+### Self Supervised Learning
+1. [Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
+2. [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882)
