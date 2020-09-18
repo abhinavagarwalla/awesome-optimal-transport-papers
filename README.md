@@ -1,6 +1,6 @@
 # awesome-optimal-transport
 
-A list of papers utilising applying optimal transport to diverse problems in machine learning and related fields like computer vision and natural language processing.
+A list of papers utilising applying differentiable optimal transport to diverse problems in machine learning and related fields like computer vision and natural language processing.
 
 ## Table of Contents
 - [Papers](#Papers)
@@ -12,6 +12,7 @@ A list of papers utilising applying optimal transport to diverse problems in mac
 ### Computer Vision
 1. [Optimal Transport for Domain Adaptation](https://arxiv.org/abs/1507.00504)
 2. [SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/abs/1911.11763)
+3. [Completely Self-Supervised Crowd Counting via Distribution Matching](https://arxiv.org/abs/2009.06420)
 
 ### Natural Language Processing
 1. [Sparse Sinkhorn Attention](https://arxiv.org/abs/2002.11296)
